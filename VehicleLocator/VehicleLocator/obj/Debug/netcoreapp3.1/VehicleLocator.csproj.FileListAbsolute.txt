@@ -1,0 +1,13 @@
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\bin\Debug\netcoreapp3.1\VehicleLocator.exe
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\bin\Debug\netcoreapp3.1\VehicleLocator.deps.json
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\bin\Debug\netcoreapp3.1\VehicleLocator.runtimeconfig.json
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\bin\Debug\netcoreapp3.1\VehicleLocator.runtimeconfig.dev.json
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\bin\Debug\netcoreapp3.1\VehicleLocator.dll
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\bin\Debug\netcoreapp3.1\VehicleLocator.pdb
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\obj\Debug\netcoreapp3.1\VehicleLocator.csproj.AssemblyReference.cache
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\obj\Debug\netcoreapp3.1\VehicleLocator.AssemblyInfoInputs.cache
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\obj\Debug\netcoreapp3.1\VehicleLocator.AssemblyInfo.cs
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\obj\Debug\netcoreapp3.1\VehicleLocator.csproj.CoreCompileInputs.cache
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\obj\Debug\netcoreapp3.1\VehicleLocator.dll
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\obj\Debug\netcoreapp3.1\VehicleLocator.pdb
+C:\src\MixTelematics\VehicleLocator\VehicleLocator\VehicleLocator\obj\Debug\netcoreapp3.1\VehicleLocator.genruntimeconfig.cache
