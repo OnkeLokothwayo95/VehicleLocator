@@ -22,6 +22,7 @@ namespace VehicleLocator
 
         private void ReadVehiclePositions()
         {
+            var fileName = "C:\\src\\MixTelematics\\VehicleLocator\VehicleLocator\VehicleLocator";
 
         }
 

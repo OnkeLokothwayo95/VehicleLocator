@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\MixTelematics\\VehicleLocator\\VehicleLocator\\VehicleLocator\\VehicleLocator.csproj",
+      "projectUniqueName": "C:\\src\\MixTelematics\\VehicleLocator\\VehicleLocator\\VehicleLocator.csproj",
       "projectName": "VehicleLocator",
-      "projectPath": "C:\\src\\MixTelematics\\VehicleLocator\\VehicleLocator\\VehicleLocator\\VehicleLocator.csproj",
+      "projectPath": "C:\\src\\MixTelematics\\VehicleLocator\\VehicleLocator\\VehicleLocator.csproj",
       "packagesPath": "C:\\Users\\F5172853\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\MixTelematics\\VehicleLocator\\VehicleLocator\\VehicleLocator\\obj\\",
+      "outputPath": "C:\\src\\MixTelematics\\VehicleLocator\\VehicleLocator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
